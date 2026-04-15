@@ -1,0 +1,5 @@
+backend/static/audio/
+backend/static/uploads/
+*.mp3
+__pycache__/
+*.pyc
